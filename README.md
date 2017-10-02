@@ -893,6 +893,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [johnny-deps](https://github.com/VividCortex/johnny-deps) - Minimal dependency version using Git.
 * [nut](https://github.com/jingweno/nut) - Vendor Go dependencies.
 * [VenGO](https://github.com/DamnWidget/VenGO) - create and manage exportable isolated go virtual environments.
+* [vg](https://github.com/GetStream/vg) - Tool that builds on `dep` and other dependency tools to add extra features such as version pinning for executables. 
 
 ## Query Language
 
